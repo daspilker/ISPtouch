@@ -1,7 +1,7 @@
 <language de>
-<b>AVR ISP Touch Adapter</b>
+<b>ISPtouch Adapter</b>
 
-<p>AVR ISP Touch is a 6-pin ISP connector for AVR programming which does not require any part on the PCB, but an adapter for a common 6-pin programmer.
+<p>ISPtouch is a 6-pin ISP connector for AVR programming which does not require any part on the PCB, but an adapter for a common 6-pin programmer.
 
-<p><a href="http://daniel-spilker.com/">http://daniel-spilker.com/</a>
+<p><a href="http://daniel-spilker.com/blog/2011/04/25/isptouch-for-avr-microcontrollers/">http://daniel-spilker.com/blog/2011/04/25/isptouch-for-avr-microcontrollers/</a>
 </language de>

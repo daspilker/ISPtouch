@@ -1,8 +1,14 @@
-AVR ISP Touch
--------------
+ISPtouch for AVR Microcontrollers
+---------------------------------
 
-AVR ISP Touch is a 6-pin ISP connector for AVR programming which does not require any part on the PCB, but an adapter for a common 6-pin programmer. This repository contains an Eagle CAD project for the ISP adapter.
+ISPtouch is a 6-pin ISP connector for AVR programming which does not require any part on the PCB, but an adapter for a common 6-pin programmer. This repository contains an Eagle CAD project for the ISPtouch adapter. For details see http://daniel-spilker.com/blog/2011/04/25/isptouch-for-avr-microcontrollers/.
 
 You can find the Eagle library containing the part to use this ISP header in your projects at https://github.com/daspilker/daspilker-eagle-library.
+
+
+
+Copyright (c) 2011, Daniel A. Spilker
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Germany License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/de/deed.en.
 
 http://daniel-spilker.com/
